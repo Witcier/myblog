@@ -14,7 +14,7 @@
 * .......未完待续  
 
 ## Usage
-* `git clone https://github.com/DenverBYF/D_GroupBlog.git`  
+* `git clone https://github.com/Witcier/myblog.git`  
 &nbsp;&nbsp;进入项目文件夹:  
 * `cp .env.example .env`  
 &nbsp;&nbsp;修改.env配置，配置mysql数据库。  
